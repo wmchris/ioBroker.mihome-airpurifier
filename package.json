@@ -6,7 +6,7 @@
     "name": "Johannes Jaeger",
     "email": "johannesjaegeroffice@gmail.com"
   },
-  "homepage": "https://github.com/JoJ123/ioBroker.mihome-airpurifier",
+  "homepage": "https://github.com/wmchris/ioBroker.mihome-airpurifier",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoJ123/ioBroker.mihome-airpurifier"
+    "url": "https://github.com/wmchris/ioBroker.mihome-airpurifier"
   },
   "dependencies": {
     "@iobroker/adapter-core": "2.2.1",
     "es6-promise": "4.2.6",
-    "miio": "git+https://github.com/JoJ123/miio.git"
+    "miio": "git+https://github.com/wmchris/miio.git"
   },
   "devDependencies": {
     "@iobroker/testing": "2.1.0",
